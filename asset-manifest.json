@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9c859dc9.chunk.css",
+    "main.js": "/portfolio/static/js/main.164b92b7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.164b92b7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.44087e9b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.44087e9b.js.map",
+    "static/js/2.72725981.chunk.js": "/portfolio/static/js/2.72725981.chunk.js",
+    "static/js/2.72725981.chunk.js.map": "/portfolio/static/js/2.72725981.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.4e2a0be60cb459b5b55ede096bbe44e5.js": "/portfolio/precache-manifest.4e2a0be60cb459b5b55ede096bbe44e5.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.9c859dc9.chunk.css.map": "/portfolio/static/css/main.9c859dc9.chunk.css.map",
+    "static/js/2.72725981.chunk.js.LICENSE.txt": "/portfolio/static/js/2.72725981.chunk.js.LICENSE.txt",
+    "static/media/mosh.png": "/portfolio/static/media/mosh.93d9f9cd.png",
+    "static/media/trade-jack.png": "/portfolio/static/media/trade-jack.175dbd0e.png",
+    "static/media/vivere.png": "/portfolio/static/media/vivere.f3275bbf.png",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.f13f6b34.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44087e9b.js",
+    "static/js/2.72725981.chunk.js",
+    "static/css/main.9c859dc9.chunk.css",
+    "static/js/main.164b92b7.chunk.js"
+  ]
+}
